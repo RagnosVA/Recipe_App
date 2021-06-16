@@ -1,2 +1,2 @@
 # Recipe_App
-This App is developed using Java.
+This App is developed using JavaFX.
